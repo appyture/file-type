@@ -1,0 +1,16 @@
+{
+	"name": "file-type",
+	"version": "18.2.0",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "https://sindresorhus.com"
+	},
+	"description": "Detect the file type of a Buffer/Uint8Array/ArrayBuffer",
+	"license": "MIT",
+	"type": "module",
+	"module": "./index.esm.mjs",
+	"engines": {
+		"node": ">=14.16"
+	}
+}
